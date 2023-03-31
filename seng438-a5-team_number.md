@@ -2,12 +2,12 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |   |
+| Group \#:       |  27 |
 |-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Student Names:  | John Delsing  |
+|                 |  Tyler Thain |
+|                 | Jared  |
+|                 | Ethan Kerr  |
 
 # Introduction
 
