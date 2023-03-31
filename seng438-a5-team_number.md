@@ -15,8 +15,18 @@
 
 # Assessment Using Reliability Growth Testing 
 
-# Assessment Using Reliability Demonstration Chart 
+Table For Geometric Model:
+<img src="./images/geoTable.png">
 
+Table for Littlewood Model:
+<img src="./images/littleChart.png">
+
+# Assessment Using Reliability Demonstration Chart 
+Graph For Geometric Model:
+<img src="./images/geoChart.png">
+
+Graph For Littlewood Model:
+<img src="./images/littleGraph.png">
 # 
 
 # Comparison of Results
