@@ -30,13 +30,19 @@ Graph For Littlewood Model:
 
 # Assessment Using Reliability Demonstration Chart
 
-Graph for MTTFmin
+Graph for MTTFmin:
+
+the image below displaysthe plot for the MTTFmin. It was made through trail and error to develop the plot and display the reliability of the system. Our graph shows that the data is acceptable for our FIO which is 1/650, which gives a MTTF of 0.0015.
 <img src="./images/MTTFmin.png">
 
-Graph for Half MTTFmin 
+Graph for Half MTTFmin:
+
+The graph below displays the plot for half MTTF. The updated FIO is 0.5/650, 0.00077 MTTF, and shows that the data is now rejected. This is due to the decrease in number of acceptable failures that are allowed.
 <img src="./images/Half_MTTF.png">
 
-Graph for Double MTTFmin
+Graph for Double MTTFmin:
+
+The graph below displays the plot for double MTTF. The updated FIO is 2/650, 0.0030 MTTF, and shows that the data trends to the accept range. This is due to the number of acceptable failures being doubled, showing more acceptable data.
 <img src="./images/Double_MTTF.png">
 
 
