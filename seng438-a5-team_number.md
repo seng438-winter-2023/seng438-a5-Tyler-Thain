@@ -22,13 +22,15 @@ Table For Geometric Model:
 Table for Littlewood Model:
 <img src="./images/littleChart.png">
 
-# Assessment Using Reliability Demonstration Chart
-
 Graph For Geometric Model:
 <img src="./images/geoChart.png">
 
 Graph For Littlewood Model:
 <img src="./images/littleGraph.png">
+
+# Assessment Using Reliability Demonstration Chart
+
+
 
 #
 
