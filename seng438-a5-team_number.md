@@ -2,18 +2,19 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |  27 |
-|-----------------|---|
-| Student Names:  | John Delsing  |
-|                 |  Tyler Thain |
-|                 | Jared  |
-|                 | Ethan Kerr  |
+| Group \#:      | 27      |
+| -------------- | ------- |
+| Student Names: |         |
+| Jared          | Assen   |
+| John           | Delsing |
+| Ethan          | Kerr    |
+| Tyler          | Thain   |
 
 # Introduction
 
-# 
+#
 
-# Assessment Using Reliability Growth Testing 
+# Assessment Using Reliability Growth Testing
 
 Table For Geometric Model:
 <img src="./images/geoTable.png">
@@ -21,13 +22,15 @@ Table For Geometric Model:
 Table for Littlewood Model:
 <img src="./images/littleChart.png">
 
-# Assessment Using Reliability Demonstration Chart 
+# Assessment Using Reliability Demonstration Chart
+
 Graph For Geometric Model:
 <img src="./images/geoChart.png">
 
 Graph For Littlewood Model:
 <img src="./images/littleGraph.png">
-# 
+
+#
 
 # Comparison of Results
 
@@ -35,7 +38,7 @@ Graph For Littlewood Model:
 
 # How the team work/effort was divided and managed
 
-# 
+#
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
