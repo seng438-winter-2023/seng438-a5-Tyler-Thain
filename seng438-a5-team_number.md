@@ -46,7 +46,9 @@ The graph below displays the plot for double MTTF. The updated FIO is 2/650, 0.0
 <img src="./images/Double_MTTF.png">
 
 
-#
+# Advantages and Disadvantages of RDC
+
+RDC offered greater ease of use compared to C-SFRAT, with clear graphical representations of failure rates and required improvements to achieve desired MTTF. Adjusting reliability factors was also straightforward. However, determining the placement of reject, continue, and accept regions, as well as selecting an appropriate MTTF, posed challenges. Additionally, RDC did not provide data on other failure metrics, such as reliability.
 
 # Comparison of Results
 
