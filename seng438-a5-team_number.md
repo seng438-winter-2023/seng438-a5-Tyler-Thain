@@ -30,6 +30,14 @@ Graph For Littlewood Model:
 
 # Assessment Using Reliability Demonstration Chart
 
+Graph for MTTFmin
+<img src="./images/MTTFmin.png">
+
+Graph for Half MTTFmin 
+<img src="./images/Half_MTTF.png">
+
+Graph for Double MTTFmin
+<img src="./images/Double_MTTF.png">
 
 
 #
